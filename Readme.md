@@ -84,7 +84,7 @@ pip install easyocr matplotlib opencv-python-headless
 
 ## Example
 
-![Detected Text Example](example_image.png)
+![Detected Text Example](downloadocrimage.png)
 
 *Note: Replace `example_image.png` with the output image from running the code.*
 
